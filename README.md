@@ -39,7 +39,7 @@ student-performance-analyzer/
 1. Clone this repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/jpauloxvr/Student-Performance-Analyzer.git
 ```
 
 2. Navigate to the project directory:
