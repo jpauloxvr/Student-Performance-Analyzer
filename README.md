@@ -75,7 +75,7 @@ Throughout this project, I practiced:
 
 ---
 
-**Author:** Computer Science student at the Federal University of Paraíba (UFPB).
+**Author:** João Paulo Xavier, Computer Science student at the Federal University of Paraíba (UFPB).
 
 *This is my first Python data analysis project, built to strengthen my programming fundamentals and prepare for more advanced projects in Data Science and Artificial Intelligence.*
 
