@@ -1,5 +1,4 @@
 # Student-Performance-Analyzer
-# Student Performance Analyzer
 
 A beginner-friendly Python project designed to analyze student academic performance, calculate grades, classify students, generate rankings, and export results to a CSV file.
 
@@ -45,7 +44,7 @@ git clone https://github.com/jpauloxvr/Student-Performance-Analyzer.git
 2. Navigate to the project directory:
 
 ```bash
-cd student-performance-analyzer
+cd Student-Performance-Analyzer
 ```
 
 3. Run the program:
